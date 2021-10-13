@@ -1,0 +1,28 @@
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color:blue;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  font-style: arial;
+  text-align: justify;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+body {
+  background-image: url("background.jpg");
+}
